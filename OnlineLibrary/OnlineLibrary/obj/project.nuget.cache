@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "kX2036dz9NvdejlT/uIttxUFdqK+XbCe41ltVjzpMPO3d7BxLCriFTM85N74CilFZ8K+E7bQMSkerYf9m+k+ag==",
+  "success": true,
+  "projectFilePath": "D:\\IAUnitBv\\ANUL 3\\SEMESTRUL 2\\Dezvoltarea aplicațiilor Web și Mobile cu Angular,.Net și Android\\Teme\\Tema1\\OnlineLibrary\\OnlineLibrary\\OnlineLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Crina\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Crina\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Crina\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Crina\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Crina\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Crina\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
